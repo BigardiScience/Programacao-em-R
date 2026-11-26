@@ -1,21 +1,7 @@
 # Programação em R
 
-Primeiros passos em R, a linguagem muito usada em estatística e análise de dados.
+Meus primeiros passos em R, a linguagem que o pessoal de estatística e análise de dados usa muito.
 
-## 📚 Conteúdo
+Comecei pelos [vetores](./Introdução/Vetores), com dez exercícios e algumas operações aritméticas. Depois fui pra [data frames](./Introdução/DataFrame), [filtragem](./Introdução/Filtragem) e funções de resumo como [sum, mean e max](./Introdução/Sum,Mean,Max).
 
-| Pasta | Assunto |
-|---|---|
-| [Vetores](./Introdução/Vetores) | Criar e manipular vetores (10 níveis) |
-| [Operações aritméticas](./Introdução/Vetores/Operações_Aritméticas) | Contas com vetores |
-| [DataFrame](./Introdução/DataFrame) | Montar tabelas com `data.frame` |
-| [Filtragem](./Introdução/Filtragem) | Filtrar linhas por condição |
-| [Sum, Mean, Max](./Introdução/Sum,Mean,Max) | Funções de resumo |
-
-## ▶️ Como rodar
-
-Abra o arquivo no RStudio e execute, ou no terminal:
-
-```bash
-Rscript "Introdução/DataFrame/Nvl01.r"
-```
+Dá pra abrir os arquivos no RStudio, ou rodar no terminal com `Rscript nome-do-arquivo.r`.
